@@ -1,0 +1,29 @@
+_repo: In-Paths-of-PerilA-Boy-s-Adventures-in-Nova-Scotia_33753
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oxley, J. Macdonald (James Macdonald)
+    alias: Oxley, James M. (James Macdonald)
+    birthdate: 1855
+    deathdate: 1907
+    gutenberg_agent_id: '3223'
+    url: http://www.gutenberg.org/2009/agents/3223
+description: ''
+gutenberg_issued: '2010-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33753'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Acadia -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Huguenots -- Juvenile fiction'
+title: 'In Paths of Peril: A Boy''s Adventures in Nova Scotia'
+url: http://www.gutenberg.org/ebooks/33753
